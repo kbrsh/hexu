@@ -1,0 +1,11 @@
+{
+  "name": "hexu",
+  "version": "1.0.0",
+  "description": "make your logs colorful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No Test"
+  },
+  "author": "Kabir Shah",
+  "license": "MIT"
+}
